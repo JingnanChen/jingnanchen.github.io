@@ -1,0 +1,22 @@
+.chinese {
+    font-family: 'Noto Serif SC', serif;
+}
+
+body {
+    font-family: 'Domine', serif;
+}
+
+.header {
+    padding: 0 0;
+}
+
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+}
+
+.container.research {
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
