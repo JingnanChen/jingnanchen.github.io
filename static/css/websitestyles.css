@@ -20,3 +20,12 @@ body {
     padding-right: 60px;
 
 }
+.carousel-item {
+    height: 80vh;
+}
+
+.carousel-item img {
+    width: auto !important;
+    max-height: 100%;
+    margin:0 auto;
+}
