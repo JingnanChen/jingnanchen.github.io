@@ -26,6 +26,11 @@ body {
     overflow-wrap: anywhere;
 }
 
+.paper-links {
+    white-space: nowrap;
+    font-size: 0.9em;
+}
+
 .profile-column {
     text-align: center;
 }
